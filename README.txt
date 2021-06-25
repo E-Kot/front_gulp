@@ -66,7 +66,7 @@ gulp otf2ttf
 @include font("ProximaNova-Light", "ProximaNova-Light", "400", "normal");
 @include font("ProximaNova-LightIt", "ProximaNova-LightIt", "400", "normal");
 
-Вносим ИЗМЕНЕНИЯ:
+Вносим ИЗМЕНЕНИЯ в соответствии с данными шрифта:
 
 @include font("ProximaNova", "ProximaNova-Black", "900", "normal");
 @include font("ProximaNova", "ProximaNova-Bold", "700", "normal");
