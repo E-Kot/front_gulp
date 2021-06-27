@@ -14,7 +14,8 @@ gulp                    -- Запуск gulp в консоли
 3. открыть новый проект в редакторе
 4. Открыть терминал
 5. Выполнить команду: npm i
-6. нужно подкорректировать плагин Fonter
+6. Выполнить команду: npm i webp-converter@2.2.3 --save-exact
+6. Нужно подкорректировать плагин Fonter
   * открываем node_modules/gulp-fonter/dist/index.js,
   * находим строку:
     newFont.path = source.dirname + '\\' + source.stem + '.' + type;
